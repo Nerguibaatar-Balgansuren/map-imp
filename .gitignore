@@ -1,0 +1,4 @@
+map-api/.env
+map-fe/.env
+map-fe/node_modules
+map-api/node_modules
